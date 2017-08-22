@@ -1,0 +1,19 @@
+{
+  "name": "dominant-color",
+  "version": "0.0.1",
+  "description": "derive dominant color from image blob",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "color",
+    "blob",
+    "dominant-color"
+  ],
+  "author": "Jared Fowler <jared.a.fowler@gmail.com>",
+  "license": "MIT"
+}
